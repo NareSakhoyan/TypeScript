@@ -1,0 +1,9 @@
+var x = "asf";
+var y = 01;
+var isAdmin = true;
+var z = "adf";
+z = 5;
+y = true;
+var b = "02";
+b = 54;
+b = false;
